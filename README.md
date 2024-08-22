@@ -1,1 +1,1 @@
-<p> Shortest React Program </p>
+<p> Shortest React Program 🧿 </p>
